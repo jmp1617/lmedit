@@ -1,0 +1,83 @@
+commit 6b421f51137b6396aa474d90061f96421ea4e1a7
+Author: Jacob Matthew Potter <jmp1617@cs.rit.edu>
+Date:   Thu May 4 18:52:37 2017 -0400
+
+    finished write
+
+commit e86afa659ec16c982ea523f89c7c3793c03336d7
+Author: Jacob Matthew Potter <jmp1617@cs.rit.edu>
+Date:   Thu May 4 15:40:55 2017 -0400
+
+    edit memory complete
+
+commit 994f341d92861523df2302517e85aa98e4cae90b
+Author: Jacob Matthew Potter <jmp1617@cs.rit.edu>
+Date:   Thu May 4 12:47:49 2017 -0400
+
+    extracted individual bytes for writing
+
+commit ae17783a5c707df16aee7be7bd632d908c72c503
+Author: Jacob Matthew Potter <jmp1617@cs.rit.edu>
+Date:   Wed May 3 18:07:41 2017 -0400
+
+    finished offset printing
+
+commit 8ddfd77944ffb9b15049e62729f89d539d994e68
+Author: Jacob Matthew Potter <jmp1617@cs.rit.edu>
+Date:   Tue May 2 22:22:33 2017 -0400
+
+    finished print
+
+commit e4b94d1f40374ed3e3636a5ace9d0b7cb66ee428
+Author: Jacob Matthew Potter <jmp1617@cs.rit.edu>
+Date:   Tue May 2 16:04:13 2017 -0400
+
+    printing of normal sections done
+
+commit 4427f268393010389fa2dee8742c10ee68f00abd
+Author: Jacob Matthew Potter <jmp1617@cs.rit.edu>
+Date:   Mon May 1 21:09:47 2017 -0400
+
+    finished error checking for read write command
+
+commit edf00c167d6f566789707f547f658dd79fd989fe
+Author: Jacob Matthew Potter <jmp1617@cs.rit.edu>
+Date:   Fri Apr 28 12:31:51 2017 -0400
+
+    finished write
+
+commit 43ee570cdee357bf7036fe53969cd0d2960b8bf9
+Author: Jacob Matthew Potter <jmp1617@cs.rit.edu>
+Date:   Thu Apr 27 15:12:25 2017 -0400
+
+    finishedsection command
+
+commit a03a9836ffb562f27cb763c3998ab9e3410bed4f
+Author: Jacob Matthew Potter <jmp1617@cs.rit.edu>
+Date:   Thu Apr 27 14:31:38 2017 -0400
+
+    finished bonus history
+
+commit 94a8a9e8ff598f0b907bf19bb9be1c43c815bbf2
+Author: Jacob Matthew Potter <jmp1617@cs.rit.edu>
+Date:   Thu Apr 27 12:43:06 2017 -0400
+
+    added history
+
+commit bdb1fdbd7f2b1693d09473dad403e327098e2986
+Author: Jacob Matthew Potter <jmp1617@cs.rit.edu>
+Date:   Thu Apr 27 12:00:14 2017 -0400
+
+    finished size
+
+commit 033c6d94253713f178537ad7a9f5a52cc7163e5a
+Author: Jacob Matthew Potter <jmp1617@cs.rit.edu>
+Date:   Tue Apr 25 20:03:35 2017 -0400
+
+    finishd data gather up to ref table
+
+commit 975bd602a24bfdf66c0524912ddd7911c9db8095
+Author: Jacob Matthew Potter <jmp1617@cs.rit.edu>
+Date:   Tue Apr 25 17:05:51 2017 -0400
+
+    initial commit
