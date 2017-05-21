@@ -1,5 +1,5 @@
 # lmedit
-Reads and interprets MIPS R2K load modules. Allows for binary editing and viewing of</br>.
+Reads and interprets MIPS R2K load modules. Allows for binary editing and viewing of</br>
 both load and object modules.
 
 # Commands
